@@ -1,1 +1,1 @@
-This codes are example of the blockchain logic
+These codes are example of the blockchain logic
